@@ -1,5 +1,4 @@
-def using_times
-  times do
+def using_times(phrase)
 	puts "Wingardium Leviosa"
 end
 
