@@ -1,5 +1,5 @@
-def using_times do
-	puts "Wingardium Leviosa"
+def using_times 
+	"Wingardium Leviosa"
 end
 
 
